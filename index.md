@@ -154,10 +154,3 @@ Votre échange doit valider un diplôme INSA. Vous devez donc remplir les contra
 
 ## Q : Est-ce que je dois m’occuper de mes notes et attestation d’échange ?
 C’est impératif. Ce n’est pas TC qui fera des relances si on ne reçoit pas de bulletin de notes. Attention, veillez donc à faire le nécessaire auprès de votre université pour que vos notes et vos attestations de projet soient bien envoyées en TC. N'attendez pas d'être parti pour vous en préoccuper !!! C’est toujours bien que les notes soit reçus avant le jury de département de fin de semestre. Et surtout avant le jury de fin d’année qui a lieu en septembre ! 
-
-
-
-{% for item in site.data.faq.questions %}
-    <p>{{ item.question }}</p>
-    <p>{{ item.answer }}</p>
-{% endfor %}
