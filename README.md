@@ -2,7 +2,7 @@
 
 ## Q : Qui s’occupe des relations internationales en TC ?
 Échanges académiques, double diplôme :  Oana IOVA
-      	Stages à l’international : Chantal MULLER
+Stages à l’international : Chantal MULLER
 
 ## Q : Qui peut partir en échange académique ?
 En TC, a priori tout le monde peut partir en échange à l’exception des admis directs de 4ème année. Ces derniers ne peuvent pas partir en échange à cause de la règle dite des trois semestres qui impose, pour obtenir son diplôme INSA, d’avoir passé trois semestres de formation à l’INSA.
@@ -28,7 +28,7 @@ En respectant un calendrier et des procédures administratives que l’on doit e
 Un projet d’échange est un projet personnel, il vous appartient d’être pro-actif, de suivre votre dossier, d’aller chercher les informations qu’il vous faut, de respecter les délais.
 
 Vue d’ensemble de la démarche 
-1- Journées Internationales INSA
+1 - Journées Internationales INSA
 Elle se déroule en général en Octobre. C’est le top départ. Vous y trouverez des conférences sur les différentes destinations, des stands par pays/universités, l’information sur les bourses, les procédures.
 2 - Réunion TC
 Cette réunion d'information se fait en amphi sous forme de questions/réponses avec tous les intéressés (3TC, 4TC). Votre présence est fortement conseillée.
