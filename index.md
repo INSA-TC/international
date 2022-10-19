@@ -157,3 +157,7 @@ C’est impératif. Ce n’est pas TC qui fera des relances si on ne reçoit pas
 
 
 
+{% for item in site.data.faq.questions %}
+    <p>{{ item.question }}</p>
+    <p>{{ item.answer }}</p>
+{% endfor %}
