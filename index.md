@@ -154,3 +154,12 @@ Votre échange doit valider un diplôme INSA. Vous devez donc remplir les contra
 
 ## Q : Est-ce que je dois m’occuper de mes notes et attestation d’échange ?
 C’est impératif. Ce n’est pas TC qui fera des relances si on ne reçoit pas de bulletin de notes. Attention, veillez donc à faire le nécessaire auprès de votre université pour que vos notes et vos attestations de projet soient bien envoyées en TC. N'attendez pas d'être parti pour vous en préoccuper !!! C’est toujours bien que les notes soit reçus avant le jury de département de fin de semestre. Et surtout avant le jury de fin d’année qui a lieu en septembre ! 
+
+## Q : J’ai passé du temps à l’étranger avant l’INSA. Puis-je la faire valider comme mobilité à l’international?
+Le règlement d’études de l’INSA est très clair à ce sujet : 
+> Pour les élèves admis directs en cours de cursus, des expériences de mobilité internationale réalisées depuis l'entrée dans un établissement supérieur avant l'admission à l'INSA Lyon peuvent être comptabilisées et cumulées. Cette validation est laissée à l’appréciation du jury du département. Pour les élèves sous statut apprenti, les mêmes dispositions s'appliquent avec une durée minimale de deux mois. Les élèves français ou étrangers vivant à l'étranger avant leur venue à l'INSA Lyon peuvent être dispensés de cette mobilité. La dispense est accordée par le jury du département.
+
+On distingue 3 cas :
+1. Vous êtes un étudiant français qui a fait une mobilité internationale après le bac (échange en IUT, année FIMI à l'étranger) -> vous faites un mail à tc.ri@listes.insa-lyon.fr pour expliquer votre situation et demander la validation de la mobilité à l’international.
+2. Vous êtes un étudiant français qui a une expérience à l'international avant le bac ("j'ai vécu 10 ans au Brésil avec mes parents") -> vous faites une lettre pour demander la dispense de l’international au jury TC -> mail à envoyer au directeur des études : Razvan Stanica <razvan.stanica@insa-lyon.fr>. Votre demande va être étudiée et votée en jury.  Cependant, ce type de demande n'est presque jamais validé par le jury.
+3. Vous êtes étudiant étranger, vous n’avez rien à faire, votre international est validé.
