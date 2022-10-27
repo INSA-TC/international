@@ -163,3 +163,6 @@ On distingue 3 cas :
 1. Vous êtes un étudiant français qui a fait une mobilité internationale après le bac (échange en IUT, année FIMI à l'étranger) -> vous faites un mail à tc.ri@listes.insa-lyon.fr pour expliquer votre situation et demander la validation de la mobilité à l’international.
 2. Vous êtes un étudiant français qui a une expérience à l'international avant le bac ("j'ai vécu 10 ans au Brésil avec mes parents") -> vous faites une lettre pour demander la dispense de l’international au jury TC -> mail à envoyer au directeur des études : Razvan Stanica <razvan.stanica@insa-lyon.fr>. Votre demande va être étudiée et votée en jury.  Cependant, ce type de demande n'est presque jamais validé par le jury.
 3. Vous êtes étudiant étranger, vous n’avez rien à faire, votre international est validé.
+
+## Q : J'ai besoin de mon relevé de notes en français et/ou en anglais. Vers qui dois-je me tourner ?
+Pour vos relevés de notes du TC vous devez vous tourner vers votre directeur des études, M. Răzvan Stanica. Les relevés de notes de FIMI se trouvent sur votre compte Planète. Si vous ne les trouvez pas, vous pouvez faire une demande auprès du secrétariat TC, soit Mme. Izabel Karabedian. Les relevés des notes sont bilingues anglais / français.
